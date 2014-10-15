@@ -1,3 +1,21 @@
+# BIOMD0000000530: Model_1
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000530.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000530.git@20140916`
+
+
+# Model Notes
 
     
     
@@ -34,4 +52,5 @@ rostock.de/triplexrna/.
 The model is parameterized using the parameters for gene CCDC3 from
 Supplementary Table S1. The two miRNAs which form the triplex together with
 CCDC3 are miR-551b and miR-138.
+
 
